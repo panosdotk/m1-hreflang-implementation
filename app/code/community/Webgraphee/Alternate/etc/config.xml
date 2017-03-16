@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Webgraphee_Alternate>
+			<version>1.0.0</version>
+		</Webgraphee_Alternate>
+	</modules>
+	<global>
+		<helpers>
+			<webgraphee_alternate>
+				<class>Webgraphee_Alternate_Helper</class>
+			</webgraphee_alternate>
+		</helpers>
+	</global>
+	<frontend>
+		<events>
+			<controller_action_layout_generate_blocks_after>
+				<observers>
+					<webgraphee_alternate>
+						<type>singleton</type>
+						<class>Webgraphee_Alternate_Model_Observer</class>
+						<method>alternateLinks</method>
+					</webgraphee_alternate>
+				</observers>
+			</controller_action_layout_generate_blocks_after>
+		</events>
+	</frontend>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Webgraphee_Alternate>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Webgraphee_Alternate>
+    </modules>
+</config>

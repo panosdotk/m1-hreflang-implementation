@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sjob"
+			],
+			[
+				"fo",
+				"formattedRole"
+			],
+			[
+				"fu",
+				"funThoughts"
+			],
+			[
+				"a",
+				"awesomeThoughts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"lara",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/__Git__/m1-hreflang-implementation"
+	],
+	"file_history":
+	[
+		"/C/__Git__/phonehouse-service/application/models/Customers_model.php",
+		"/C/__Git__/phonehouse-service/application/language/greek/main_lang.php",
+		"/C/__Git__/phonehouse-service/application/language/greek/ion_auth_lang.php",
+		"/C/__Git__/phonehouse-service/application/language/greek/auth_lang.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/libraries/Repairer.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/controllers/Settings.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/controllers/Reparation.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/controllers/Customers.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/controllers/Inventory.php",
+		"/C/__Git__/phonehouse-service/application/modules/panel/config/my_config.php",
+		"/C/__Git__/phonehouse-service/config.php",
+		"/C/__Courses__/Udemy - Javascript Basics/js-basics/index.html",
+		"/C/__Courses__/Udemy - Javascript Basics/js-basics/js/resumeBuilder.js",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/fancygents-dev",
+		"/C/users/f/appdata/local/temp/sublime-sftp-browse-1481119381/fancygents-dev/httpdocs/wp-fancy/wp-content/themes/fancygents/functions.php",
+		"/C/Users/F/Google Drive/__Synced [Web]/--_Website Files Templates/MyMobi/Products/BH-119/Instructions_EN.txt",
+		"/C/Users/F/Google Drive/__Synced [Web]/--_Website Files Templates/MyMobi/Products/BH-119/Instructions_GR.txt",
+		"/X/PhoneHouse/-Phonehouse-ERP/sftp-config.json",
+		"/C/users/f/appdata/local/temp/sublime-sftp-browse-1473762046/phonehouse-erp/var/www/phonehouse-erp/config/database.php",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/phonehouse-erp",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/F/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 167.0
+	},
+	"pinned_build_system": "",
+	"project": "m1-hreflang-implementation.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
